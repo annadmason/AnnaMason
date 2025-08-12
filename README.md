@@ -2,7 +2,7 @@ Anna Mason's Final Project for IS 430, Foundations of Information Processesing
 University of Illinois at Urbana Champaign, Summer 2025
 Instructor: Dr. Bradly Alicea
 
-This program reads and conducts an analysis on a Library of Congress housed dataset
+This program reads and conducts an analysis of a Library of Congress housed dataset. 
 
 By the People campaign: Chicago 1977: People, Places, and Cultures
 Number of transcriptions: 3,656
@@ -44,4 +44,5 @@ in that each page belongs in a book, which belongs in a folder, which belongs in
 organization of the data within the program. 
 
 Overall, I think this was a good start to the project, but it still needs work and the underlying dataset needs a lot of work and cleaning. 
+
 A learning process indeed!
